@@ -1,0 +1,19 @@
+# AWS SDK for Python
+boto3==1.34.131
+botocore==1.34.131
+
+# HTTP requests library
+requests==2.31.0
+httpx==0.25.2
+
+# JSON Web Token handling
+PyJWT==2.8.0
+
+# Environment variable management
+python-decouple==3.8
+
+# Date/time utilities
+python-dateutil==2.8.2
+
+# Validation library
+pydantic==2.7.1
