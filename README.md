@@ -1,4 +1,4 @@
-# TheUnc Consumer Service
+# The Consumer Service
 
 Serverless message ingestion and processing for inbound chat events using AWS SQS, Lambda, and DynamoDB. The system ingests batched SQS messages, persists normalized chat records, reacts to new chat inserts via DynamoDB Streams, and notifies an external reply service.
 
